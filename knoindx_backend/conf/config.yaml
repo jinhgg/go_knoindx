@@ -1,0 +1,12 @@
+VERSION: "v1.0"
+
+MYSQL:
+  HOST: "127.0.0.1"
+  PORT: 3306
+  USER: "root"
+  PASSWORD: "lijinhang"
+  DATABASE: "knoindx_platform"
+  MAX_OPEN_CONNS: 200
+  MAX_IDLE_CONNS: 50
+
+
